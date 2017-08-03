@@ -1,3 +1,3 @@
-def eatcarrot():
-	print "eating carrot";
+def eatbanana():
+	print "eating banana";
 
